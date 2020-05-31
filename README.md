@@ -5,8 +5,7 @@ Built it using HTML5, SASS, and Bootstrap.
 
 ## ScreenShots
 
-![]()
-![]()
+![](./assets/images/screenshot-resume.png)
 
 ## Live Version
 
